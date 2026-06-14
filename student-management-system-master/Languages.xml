@@ -11,7 +11,7 @@
 		<val lang="RU">Система управления студентами</val>
 		<val lang="RO">Sistem de management al elevilor</val>
 	</key>
-	
+
 	<key value="connectText">
 		<val lang="ENG">Connect to a database:</val>
 		<val lang="RU">Подключитесь к базе данных:</val>
